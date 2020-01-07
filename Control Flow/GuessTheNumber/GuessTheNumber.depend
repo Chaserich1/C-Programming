@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578428941 source:c:\users\cnr1103\c-programming\control flow\guessthenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
