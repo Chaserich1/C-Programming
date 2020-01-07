@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578404843 source:c:\users\cnr1103\c-programming\operators\bytesizes\main.c
+	<stdio.h>
+	<stdlib.h>
+
