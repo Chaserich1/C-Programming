@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578585409 source:c:\users\cnr1103\c-programming\arrays\weatherprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+
