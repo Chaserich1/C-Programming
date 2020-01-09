@@ -9,7 +9,7 @@ void abso(float value)
 {
     float absvalue;
     if(value < 0){
-        absvalue = (unsigned)value;
+        absvalue = value * 2;
     } else {
         absvalue = value;
     }
