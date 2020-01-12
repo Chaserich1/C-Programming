@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578870470 source:c:\users\chase's laptop\udemy-courses\c-programming\functions\tictactoegame\main.c
+	<stdio.h>
+	<stdlib.h>
+
