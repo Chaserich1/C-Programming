@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579286830 source:c:\users\cnr1103\c-programming\character strings\understandchararrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
